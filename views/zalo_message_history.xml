@@ -45,7 +45,7 @@
                   name="Message History"
                   action="zalo_message_history_action"
                   parent="zalo_message_menu_root"
-        sequence="1"/>
+                  sequence="1"/>
 
     </data>
 </odoo>

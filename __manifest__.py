@@ -35,7 +35,8 @@
         'views/res_partner_views.xml',
         'views/res_config_setting_views.xml',
         'views/zalo_message_history.xml',
-        'views/zalo_bot_message_views.xml',
+        # 'views/zalo_info_follower_views.xml',
+        'views/zalo_info_message_views.xml',
         'views/zalo_bot_question_views.xml',
         'wizard/zalo_form_message_views.xml',
 
